@@ -2,7 +2,7 @@
 
 A modern, responsive React application for managing internship onboarding with a 3-step wizard and comprehensive dashboard.
 
-![intern_onboarding_dashboard]()
+![intern_onboarding_dashboard](https://github.com/user-attachments/assets/cadb4319-b6d6-4d68-a4a6-0f6491690296)
 
 ## Features
 
