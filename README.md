@@ -67,7 +67,7 @@ A modern, responsive React application for managing internship onboarding with a
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tumansutradhar/intern_onboarding
    cd intern_onboarding
    ```
 
